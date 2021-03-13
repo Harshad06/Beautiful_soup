@@ -6,7 +6,7 @@ response = requests.get(url)
 # print(type(response))
 # print(response.text)
 
-filename = "temp.html"
+filename = "simple.html"
 
 bs = bs4.BeautifulSoup(response.text,"html.parser")
 
