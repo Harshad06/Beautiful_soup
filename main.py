@@ -39,5 +39,5 @@ print("No. of anchor tags = ",num_of_anchorTags)
 
 
 
-# use URL: https://www.techsoftindia.co.in/ only for testing purpose.
+# use URL: https://www.techsoftindia.co.in/ only for educational/testing purpose.
 # All rights reserved with techsoftindia 
